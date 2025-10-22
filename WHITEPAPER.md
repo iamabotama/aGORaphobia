@@ -29,7 +29,6 @@
 
 ---
 
-```markdown
 ## Executive Summary
 
 **The Gorbagana Barrier:** Access requires Backpack wallet expertise, blockchain literacy, and technical sophistication. This limits Gorbagana to a small, elite user base of crypto natives.
@@ -57,7 +56,6 @@ Every other Gorbagana entry point requires technical sophistication. Agoraphobia
 
 **Why This Matters:**
 Gaming is the proven path to mainstream technology adoption. Mobile games brought billions online. Social gaming created the app economy. Now tower defense gameplay opens the door to Gorbagana - one trash can at a time.
-```
 
 ---
 
