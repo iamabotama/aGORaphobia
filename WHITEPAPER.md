@@ -29,17 +29,35 @@
 
 ---
 
+```markdown
 ## Executive Summary
 
-Agoraphobia is a free-to-play, open-source tower defense game designed to serve as Gorbagana's universal onramp. Players defend their junkyard from dumpster divers using trash-built weapons, earning TrashCoin (universal scoring) or any Gorbagana-native token.
+**The Gorbagana Barrier:** Access requires Backpack wallet expertise, blockchain literacy, and technical sophistication. This limits Gorbagana to a small, elite user base of crypto natives.
 
-**Monetization Model:**
-- Free game with unlimited play and in-game store
+**Agoraphobia Removes the Barrier:** FREE-TO-PLAY tower defense accessible to anyone with a phone.
+
+Agoraphobia is a FREE-TO-PLAY, open-source tower defense game that serves as Gorbagana's universal onramp. Players defend their junkyard from dumpster divers using trash-built weapons, earning TrashCoin (universal scoring) or any Gorbagana-native token.
+
+**No crypto knowledge required. No Backpack required. No blockchain understanding required.**
+
+Download. Play. Earn. That's it.
+
+Every other Gorbagana entry point requires technical sophistication. Agoraphobia requires thumbs and a love of tower defense. This single game can bring more users to Gorbagana than every other onramp combined - because it removes all barriers.
+
+**The Market Expansion:**
+- Current Gorbagana users: Technically sophisticated, Backpack-equipped, crypto-native
+- Agoraphobia's reach: 3 billion mobile gamers, zero crypto requirement
+- Impact: Transform exclusive blockchain into mass-market platform
+
+**The Model:**
+- Free game with unlimited play (no friction, no barriers)
 - Optional $0.99 wallet upgrade unlocks real crypto withdrawals
+- Token launchpad enables 1,000+ Gorbagana projects to reach millions of users
+- Game-first approach: 97% pure gamers, 3% convert to crypto users
 
-**Dual-Track Architecture:**
-- Gaming track: Free mobile game targeting mainstream adoption
-- Crypto track: Token marketplace enabling multiple Gorbagana-native tokens
+**Why This Matters:**
+Gaming is the proven path to mainstream technology adoption. Mobile games brought billions online. Social gaming created the app economy. Now tower defense gameplay opens the door to Gorbagana - one trash can at a time.
+```
 
 ---
 
