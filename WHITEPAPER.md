@@ -7,7 +7,7 @@
 
 ---
 
-![Agoraphobia Game Poster](assets/images/poster.png)
+![Agoraphobia Game Poster](poster.png)
 
 ---
 
@@ -74,7 +74,7 @@ Agoraphobia is a free-to-play, open-source tower defense game designed to serve 
 
 ### 2.3 Token Launchpad
 
-![Multi-Token Wallet Interface](assets/images/wallet-interface.png)
+![Multi-Token Wallet Interface](wallet-interface.png)
 
 - Any Gorbagana token can integrate with the game
 - Custom skins, weapons, and maps for each token
@@ -92,7 +92,7 @@ Download free → Play and earn coins → Spend in-game
 
 ### 3.1 Gameplay Loop
 
-![Tower Defense Gameplay](assets/images/gameplay.png)
+![Tower Defense Gameplay](gameplay.png)
 
 1. Defend shed from waves of dumpster divers
 2. Place and upgrade trash-built weapons
@@ -108,7 +108,7 @@ Download free → Play and earn coins → Spend in-game
 
 ### 3.3 Defense Tree
 
-![In-Game Shop - Defenses](assets/images/shop-defenses.png)
+![In-Game Shop - Defenses](shop-defenses.png)
 
 | Tier   | Weapon          | Cost   | DPS  |
 |--------|-----------------|--------|------|
@@ -117,7 +117,7 @@ Download free → Play and earn coins → Spend in-game
 | Epic   | Fridge Fortress | 750 TC | 200  |
 | Mythic | Trash Tsunami   | 5K TC  | 1.2K |
 
-![In-Game Shop - Shooters & Support](assets/images/shop-shooters.png)
+![In-Game Shop - Shooters & Support](shop-shooters.png)
 
 ---
 
@@ -199,7 +199,7 @@ Note: Projections are preliminary and subject to market conditions and execution
 
 ## 9. Visual Assets
 
-![Enemy Character - Dumpster Diver](assets/images/enemy-character.png)
+![Enemy Character - Dumpster Diver](enemy-character.png)
 
 **Art Style:** Hybrid of Mario Bros and Plants vs Zombies aesthetics  
 
@@ -248,14 +248,14 @@ Note: Projections are preliminary and subject to market conditions and execution
 
 ## About This Document
 
-This whitepaper is a living document and will be updated as the project evolves. For the latest version, visit the [GitHub repository](https://github.com/yourusername/agoraphobia).
+This whitepaper is a living document and will be updated as the project evolves. For the latest version, visit the [GitHub repository](https://github.com/iamabotama/aGORaphobia).
 
 **Version History:**
 - v2.0 (October 2025) - Revised with 3% conversion rate, professional tone
 - v1.0 (October 2025) - Initial concept
 
 **Contact:**
-- GitHub Issues: [Report problems or suggestions](https://github.com/yourusername/agoraphobia/issues)
+- GitHub Issues: [Report problems or suggestions](https://github.com/iamabotama/aGORaphobia/issues)
 - Email: [Coming Soon]
 
 **License:** This document is released under Creative Commons Attribution 4.0 International (CC BY 4.0)
